@@ -1,0 +1,789 @@
+Return_ID,Order_ID,Return_Reason,Refund_Method,Return_Date
+R00001,O008429,Not as Described,Store Credit,2025-02-13
+R00002,O009390,Size/Fit,Original Payment,2024-11-18
+R00003,O008667,Not as Described,Original Payment,2024-02-13
+R00004,O019332,Size/Fit,Original Payment,2025-11-25
+R00005,O006746,Changed Mind,Original Payment,2024-02-08
+R00006,O016358,Size/Fit,Original Payment,2025-12-14
+R00007,O005269,Changed Mind,Original Payment,2024-04-01
+R00008,O011560,Changed Mind,Original Payment,2025-03-16
+R00009,O002228,Size/Fit,Store Credit,2024-12-03
+R00010,O006956,Damaged,Store Credit,2024-11-22
+R00011,O023351,Wrong Item,Original Payment,2024-01-14
+R00012,O001826,Not as Described,Original Payment,2024-08-26
+R00013,O005297,Damaged,Original Payment,2025-07-19
+R00014,O023859,Late Delivery,Original Payment,2024-10-23
+R00015,O014096,Changed Mind,Original Payment,2024-09-15
+R00016,O007350,Wrong Item,Original Payment,2025-03-10
+R00017,O000938,Changed Mind,Original Payment,2025-05-23
+R00018,O010656,Changed Mind,Original Payment,2025-12-27
+R00019,O019545,Changed Mind,Original Payment,2025-10-14
+R00020,O020562,Size/Fit,Store Credit,2025-01-04
+R00021,O016830,Changed Mind,Original Payment,2024-04-02
+R00022,O003130,Not as Described,Original Payment,2025-02-04
+R00023,O018148,Wrong Item,Original Payment,2024-07-01
+R00024,O020769,Not as Described,Store Credit,2025-06-21
+R00025,O022352,Size/Fit,Original Payment,2024-12-22
+R00026,O000743,Changed Mind,Original Payment,2025-08-21
+R00027,O005706,Size/Fit,Original Payment,2025-11-15
+R00028,O006284,Changed Mind,Store Credit,2025-01-13
+R00029,O011576,Late Delivery,Original Payment,2024-12-25
+R00030,O001843,Wrong Item,Original Payment,2024-04-05
+R00031,O013216,Size/Fit,Original Payment,2025-07-20
+R00032,O002824,Wrong Item,Original Payment,2025-05-07
+R00033,O018110,Not as Described,Store Credit,2024-12-25
+R00034,O003938,Wrong Item,Original Payment,2025-12-30
+R00035,O012372,Size/Fit,Original Payment,2025-07-08
+R00036,O023952,Not as Described,Original Payment,2024-11-13
+R00037,O018280,Changed Mind,Original Payment,2026-01-10
+R00038,O001549,Wrong Item,Original Payment,2025-09-03
+R00039,O003979,Changed Mind,Original Payment,2024-10-11
+R00040,O015324,Wrong Item,Original Payment,2025-03-30
+R00041,O012824,Damaged,Original Payment,2024-02-19
+R00042,O001094,Not as Described,Original Payment,2025-02-23
+R00043,O015856,Not as Described,Store Credit,2025-11-26
+R00044,O015970,Changed Mind,Original Payment,2025-04-21
+R00045,O003858,Changed Mind,Original Payment,2024-05-17
+R00046,O023563,Wrong Item,Original Payment,2024-05-30
+R00047,O011044,Not as Described,Original Payment,2024-01-30
+R00048,O003461,Size/Fit,Original Payment,2024-11-14
+R00049,O009346,Changed Mind,Original Payment,2024-04-22
+R00050,O010602,Changed Mind,Original Payment,2025-05-07
+R00051,O009374,Damaged,Original Payment,2025-12-26
+R00052,O005998,Wrong Item,Original Payment,2025-12-10
+R00053,O011896,Size/Fit,Original Payment,2025-11-04
+R00054,O007233,Not as Described,Store Credit,2024-09-02
+R00055,O009582,Size/Fit,Store Credit,2025-11-18
+R00056,O019583,Damaged,Original Payment,2026-01-12
+R00057,O003477,Late Delivery,Original Payment,2024-12-05
+R00058,O017290,Not as Described,Original Payment,2024-06-15
+R00059,O007202,Wrong Item,Original Payment,2025-10-20
+R00060,O001961,Damaged,Original Payment,2024-11-30
+R00061,O006410,Late Delivery,Original Payment,2025-03-02
+R00062,O005922,Damaged,Original Payment,2024-03-25
+R00063,O014145,Wrong Item,Original Payment,2024-06-19
+R00064,O004134,Size/Fit,Original Payment,2025-02-25
+R00065,O010794,Not as Described,Original Payment,2025-02-07
+R00066,O012937,Not as Described,Store Credit,2024-01-23
+R00067,O001667,Changed Mind,Original Payment,2024-06-08
+R00068,O019660,Late Delivery,Original Payment,2024-10-05
+R00069,O017555,Changed Mind,Store Credit,2024-08-05
+R00070,O013942,Damaged,Original Payment,2025-03-17
+R00071,O019666,Size/Fit,Original Payment,2025-11-08
+R00072,O016174,Late Delivery,Original Payment,2024-11-13
+R00073,O019644,Changed Mind,Original Payment,2025-12-28
+R00074,O010763,Wrong Item,Original Payment,2025-03-30
+R00075,O016941,Late Delivery,Original Payment,2024-02-14
+R00076,O011167,Late Delivery,Original Payment,2025-10-17
+R00077,O002291,Size/Fit,Store Credit,2025-11-01
+R00078,O023423,Late Delivery,Original Payment,2025-05-03
+R00079,O005159,Late Delivery,Original Payment,2025-05-20
+R00080,O006475,Size/Fit,Original Payment,2024-01-15
+R00081,O008115,Changed Mind,Original Payment,2024-06-15
+R00082,O012390,Not as Described,Original Payment,2024-03-20
+R00083,O012203,Wrong Item,Original Payment,2025-12-22
+R00084,O015326,Late Delivery,Original Payment,2025-09-12
+R00085,O014354,Wrong Item,Original Payment,2025-06-28
+R00086,O021774,Wrong Item,Original Payment,2024-10-11
+R00087,O016907,Late Delivery,Original Payment,2024-11-09
+R00088,O015950,Changed Mind,Original Payment,2025-11-12
+R00089,O002584,Wrong Item,Store Credit,2024-01-18
+R00090,O011505,Damaged,Original Payment,2024-02-27
+R00091,O020435,Damaged,Original Payment,2025-09-15
+R00092,O021573,Not as Described,Original Payment,2024-11-20
+R00093,O011854,Size/Fit,Original Payment,2024-07-16
+R00094,O022688,Not as Described,Store Credit,2025-12-04
+R00095,O013881,Damaged,Original Payment,2025-04-29
+R00096,O014394,Wrong Item,Original Payment,2025-08-01
+R00097,O023308,Not as Described,Original Payment,2024-01-29
+R00098,O001862,Changed Mind,Store Credit,2024-04-27
+R00099,O012744,Size/Fit,Original Payment,2025-03-24
+R00100,O001169,Damaged,Original Payment,2024-03-28
+R00101,O016295,Not as Described,Store Credit,2024-10-28
+R00102,O004762,Changed Mind,Original Payment,2024-05-16
+R00103,O014438,Late Delivery,Store Credit,2025-01-24
+R00104,O006823,Changed Mind,Original Payment,2024-08-02
+R00105,O012626,Late Delivery,Original Payment,2025-04-16
+R00106,O021602,Not as Described,Original Payment,2024-12-18
+R00107,O006508,,Original Payment,2024-12-24
+R00108,O016769,Late Delivery,Store Credit,2024-12-06
+R00109,O007026,Damaged,Store Credit,2025-07-28
+R00110,O007051,Damaged,Original Payment,2024-06-05
+R00111,O007789,Changed Mind,Original Payment,2025-12-09
+R00112,O012811,Not as Described,Original Payment,2025-12-10
+R00113,O014994,Not as Described,Original Payment,2025-02-15
+R00114,O011852,Late Delivery,Original Payment,2024-09-04
+R00115,O011178,Late Delivery,Original Payment,2024-11-18
+R00116,O012605,Size/Fit,Original Payment,2024-11-20
+R00117,O017636,Late Delivery,Original Payment,2025-03-27
+R00118,O021080,Damaged,Original Payment,2024-08-28
+R00119,O022434,Wrong Item,Original Payment,2024-11-06
+R00120,O007513,Late Delivery,Original Payment,2024-01-17
+R00121,O012519,Damaged,Original Payment,2025-03-06
+R00122,O007737,Damaged,Original Payment,2025-04-30
+R00123,O001553,Changed Mind,Original Payment,2025-12-06
+R00124,O021587,,Original Payment,2024-10-25
+R00125,O007290,Changed Mind,Original Payment,2024-11-15
+R00126,O022252,Not as Described,Original Payment,2024-09-19
+R00127,O017432,Changed Mind,Original Payment,2025-01-04
+R00128,O001763,Wrong Item,Original Payment,2024-08-28
+R00129,O019844,Wrong Item,Original Payment,2025-04-25
+R00130,O023734,Changed Mind,Original Payment,2024-12-27
+R00131,O013722,Late Delivery,Original Payment,2025-04-14
+R00132,O014513,Size/Fit,Original Payment,2024-04-27
+R00133,O022076,Wrong Item,Original Payment,2026-01-04
+R00134,O009754,Changed Mind,Original Payment,2025-11-06
+R00135,O021009,Late Delivery,Original Payment,2024-10-09
+R00136,O017010,Not as Described,Original Payment,2024-09-27
+R00137,O002863,Not as Described,Original Payment,2024-03-07
+R00138,O022963,Late Delivery,Original Payment,2024-11-21
+R00139,O010938,Not as Described,Original Payment,2024-05-02
+R00140,O007386,Wrong Item,Original Payment,2026-01-19
+R00141,O014258,Damaged,Original Payment,2024-04-06
+R00142,O008650,Not as Described,Original Payment,2025-01-10
+R00143,O004620,Changed Mind,Original Payment,2025-04-12
+R00144,O017769,Damaged,Original Payment,2026-01-10
+R00145,O023012,Wrong Item,Original Payment,2024-10-31
+R00146,O014402,Late Delivery,Original Payment,2024-08-25
+R00147,O008339,Wrong Item,Original Payment,2024-06-23
+R00148,O012895,Size/Fit,Original Payment,2025-11-25
+R00149,O003474,Wrong Item,Original Payment,2024-12-02
+R00150,O007838,Size/Fit,Store Credit,2024-06-07
+R00151,O018769,Damaged,Original Payment,2025-02-06
+R00152,O013941,Wrong Item,Original Payment,2025-07-24
+R00153,O017649,Damaged,Store Credit,2025-12-25
+R00154,O010387,Late Delivery,Original Payment,2025-02-23
+R00155,O012840,Not as Described,Original Payment,2024-05-25
+R00156,O012055,Size/Fit,Original Payment,2024-09-12
+R00157,O007148,Wrong Item,Original Payment,2024-08-10
+R00158,O009239,Not as Described,Original Payment,2025-01-07
+R00159,O007533,Wrong Item,Original Payment,2025-12-04
+R00160,O001997,,Original Payment,2024-06-20
+R00161,O021823,Size/Fit,Original Payment,2024-11-13
+R00162,O006209,Changed Mind,Original Payment,2025-12-29
+R00163,O012994,Late Delivery,Original Payment,2025-01-30
+R00164,O011199,Changed Mind,Original Payment,2024-04-18
+R00165,O014973,Not as Described,Original Payment,2024-11-19
+R00166,O014922,Size/Fit,Original Payment,2025-01-28
+R00167,O010508,Not as Described,Original Payment,2025-05-28
+R00168,O001752,Size/Fit,Original Payment,2024-10-11
+R00169,O003508,,Original Payment,2024-05-20
+R00170,O004779,Not as Described,Original Payment,2025-08-06
+R00171,O009052,Damaged,Original Payment,2024-05-08
+R00172,O006096,Damaged,Original Payment,2025-07-05
+R00173,O017311,Not as Described,Original Payment,2024-06-14
+R00174,O006354,Changed Mind,Original Payment,2024-07-11
+R00175,O021879,Size/Fit,Store Credit,2024-09-13
+R00176,O005182,Size/Fit,Original Payment,2024-11-28
+R00177,O023679,Wrong Item,Original Payment,2025-08-24
+R00178,O023301,Damaged,Original Payment,2024-04-13
+R00179,O001251,Not as Described,Original Payment,2025-02-25
+R00180,O017068,Changed Mind,Original Payment,2026-01-07
+R00181,O005240,Late Delivery,Original Payment,2025-06-17
+R00182,O012614,Late Delivery,Original Payment,2025-08-15
+R00183,O007636,Size/Fit,Original Payment,2024-09-01
+R00184,O021655,Size/Fit,Original Payment,2024-12-07
+R00185,O012688,Not as Described,Original Payment,2025-01-06
+R00186,O019847,Not as Described,Original Payment,2025-05-24
+R00187,O023857,Damaged,Store Credit,2025-11-05
+R00188,O022991,Changed Mind,Original Payment,2024-05-16
+R00189,O013322,Changed Mind,Original Payment,2025-05-25
+R00190,O000965,Damaged,Original Payment,2025-09-15
+R00191,O000950,Size/Fit,Original Payment,2024-12-06
+R00192,O017595,Wrong Item,Original Payment,2024-11-23
+R00193,O016229,Size/Fit,Original Payment,2025-08-03
+R00194,O011629,Changed Mind,Original Payment,2025-11-23
+R00195,O023004,Wrong Item,Store Credit,2025-02-05
+R00196,O013267,Wrong Item,Original Payment,2025-01-18
+R00197,O006821,Not as Described,Original Payment,2024-06-09
+R00198,O002853,Damaged,Original Payment,2025-06-01
+R00199,O001978,Wrong Item,Original Payment,2025-12-03
+R00200,O018731,Damaged,Store Credit,2025-03-03
+R00201,O006401,Damaged,Original Payment,2025-11-14
+R00202,O002152,Size/Fit,Original Payment,2024-12-02
+R00203,O012422,Not as Described,Original Payment,2025-04-02
+R00204,O022334,Damaged,Original Payment,2025-12-02
+R00205,O013055,Not as Described,Original Payment,2024-12-17
+R00206,O009093,Changed Mind,Original Payment,2025-08-15
+R00207,O015640,Damaged,Original Payment,2025-04-28
+R00208,O008972,Damaged,Original Payment,2024-06-29
+R00209,O000035,Wrong Item,Original Payment,2024-04-15
+R00210,O002735,Not as Described,Original Payment,2025-11-25
+R00211,O008677,Size/Fit,Original Payment,2024-03-28
+R00212,O021233,Not as Described,Store Credit,2024-07-06
+R00213,O022635,Not as Described,Original Payment,2024-04-23
+R00214,O005110,Changed Mind,Original Payment,2024-09-27
+R00215,O000121,Changed Mind,Original Payment,2024-07-17
+R00216,O001459,Size/Fit,Original Payment,2025-03-28
+R00217,O007115,Size/Fit,Original Payment,2025-12-17
+R00218,O020743,Changed Mind,Original Payment,2025-07-09
+R00219,O009108,Size/Fit,Original Payment,2024-08-19
+R00220,O010474,Not as Described,Original Payment,2024-03-25
+R00221,O002612,Changed Mind,Original Payment,2025-12-09
+R00222,O014034,Wrong Item,Store Credit,2025-03-18
+R00223,O004939,Late Delivery,Original Payment,2025-07-19
+R00224,O018093,Not as Described,Original Payment,2024-10-24
+R00225,O016364,Late Delivery,Store Credit,2024-05-02
+R00226,O022955,Changed Mind,Original Payment,2025-12-17
+R00227,O022239,Not as Described,Original Payment,2025-09-24
+R00228,O016800,Wrong Item,Original Payment,2024-04-29
+R00229,O020576,Damaged,Original Payment,2024-04-09
+R00230,O000822,Wrong Item,Store Credit,2024-09-29
+R00231,O002209,Not as Described,Original Payment,2024-03-08
+R00232,O000306,Not as Described,Original Payment,2024-08-23
+R00233,O020404,Changed Mind,Original Payment,2025-03-23
+R00234,O006709,Late Delivery,Original Payment,2025-11-15
+R00235,O008481,,Store Credit,2024-11-07
+R00236,O014518,Not as Described,Original Payment,2025-10-15
+R00237,O020785,Not as Described,Original Payment,2024-09-06
+R00238,O022255,Changed Mind,Original Payment,2024-08-12
+R00239,O003092,Not as Described,Original Payment,2025-04-18
+R00240,O008088,Changed Mind,Original Payment,2025-11-16
+R00241,O018384,Size/Fit,Original Payment,2025-01-12
+R00242,O007440,Late Delivery,Original Payment,2024-07-17
+R00243,O000892,Not as Described,Original Payment,2025-05-29
+R00244,O001471,Size/Fit,Original Payment,2025-09-17
+R00245,O011898,Changed Mind,Original Payment,2025-04-24
+R00246,O008107,Changed Mind,Original Payment,2024-12-23
+R00247,O015578,Size/Fit,Original Payment,2024-05-13
+R00248,O010830,Not as Described,Original Payment,2024-12-18
+R00249,O004733,Damaged,Original Payment,2025-06-17
+R00250,O010492,Wrong Item,Original Payment,2025-11-14
+R00251,O002143,Wrong Item,Original Payment,2025-03-26
+R00252,O021030,Late Delivery,Original Payment,2024-04-22
+R00253,O010702,Wrong Item,Original Payment,2025-01-30
+R00254,O014320,Wrong Item,Store Credit,2025-01-16
+R00255,O007446,Not as Described,Original Payment,2024-06-02
+R00256,O020938,Size/Fit,Original Payment,2024-04-26
+R00257,O005975,Changed Mind,Original Payment,2026-01-03
+R00258,O014997,Wrong Item,Original Payment,2024-05-22
+R00259,O005199,Damaged,Original Payment,2025-02-28
+R00260,O016871,Wrong Item,Original Payment,2024-04-07
+R00261,O007931,Changed Mind,Original Payment,2024-03-22
+R00262,O009993,Damaged,Original Payment,2025-02-04
+R00263,O005535,Wrong Item,Store Credit,2024-09-25
+R00264,O021811,Damaged,Original Payment,2025-08-04
+R00265,O023395,Damaged,Original Payment,2024-05-15
+R00266,O018992,Late Delivery,Original Payment,2025-02-02
+R00267,O011281,Not as Described,Original Payment,2025-05-12
+R00268,O008901,Not as Described,Original Payment,2024-05-04
+R00269,O008014,Late Delivery,Original Payment,2024-11-22
+R00270,O010515,Late Delivery,Original Payment,2025-11-11
+R00271,O018215,Changed Mind,Original Payment,2024-05-09
+R00272,O008109,Damaged,Original Payment,2025-08-27
+R00273,O000181,,Original Payment,2025-05-14
+R00274,O003789,Late Delivery,Original Payment,2024-10-30
+R00275,O020513,Not as Described,Original Payment,2025-04-02
+R00276,O009814,Changed Mind,Original Payment,2024-05-02
+R00277,O023805,Changed Mind,Original Payment,2024-03-10
+R00278,O009036,Changed Mind,Original Payment,2024-06-14
+R00279,O018389,Size/Fit,Store Credit,2024-09-15
+R00280,O013164,Changed Mind,Original Payment,2025-12-04
+R00281,O013166,Wrong Item,Original Payment,2024-11-29
+R00282,O013339,Size/Fit,Original Payment,2025-08-04
+R00283,O022330,Wrong Item,Original Payment,2025-07-07
+R00284,O018644,Size/Fit,Original Payment,2024-09-06
+R00285,O019781,Wrong Item,Original Payment,2025-09-06
+R00286,O013446,Not as Described,Original Payment,2026-01-08
+R00287,O012174,,Original Payment,2025-02-27
+R00288,O019411,Wrong Item,Original Payment,2024-09-22
+R00289,O010043,Not as Described,Original Payment,2025-06-05
+R00290,O005539,Not as Described,Original Payment,2025-06-09
+R00291,O008000,Not as Described,Original Payment,2025-04-13
+R00292,O022901,Not as Described,Original Payment,2024-09-29
+R00293,O005210,Late Delivery,Original Payment,2024-03-30
+R00294,O002015,Late Delivery,Original Payment,2024-12-20
+R00295,O003650,Changed Mind,Original Payment,2024-03-12
+R00296,O016380,Late Delivery,Original Payment,2025-11-26
+R00297,O013492,Late Delivery,Original Payment,2025-11-09
+R00298,O007457,Not as Described,Original Payment,2024-07-25
+R00299,O015582,Changed Mind,Original Payment,2024-08-25
+R00300,O007369,Not as Described,Original Payment,2026-01-02
+R00301,O003425,Changed Mind,Original Payment,2024-10-06
+R00302,O012760,Changed Mind,Original Payment,2024-09-22
+R00303,O014080,Wrong Item,Original Payment,2024-11-17
+R00304,O012226,Changed Mind,Original Payment,2025-10-11
+R00305,O000010,Not as Described,Original Payment,2025-12-23
+R00306,O016618,Not as Described,Original Payment,2025-08-07
+R00307,O012712,Damaged,Original Payment,2024-05-20
+R00308,O007485,Damaged,Original Payment,2024-11-29
+R00309,O022591,Size/Fit,Original Payment,2025-06-28
+R00310,O010719,Not as Described,Original Payment,2024-02-02
+R00311,O018548,Size/Fit,Original Payment,2024-11-01
+R00312,O004063,Changed Mind,Original Payment,2025-09-17
+R00313,O003240,Late Delivery,Original Payment,2025-11-16
+R00314,O009015,Not as Described,Original Payment,2024-07-03
+R00315,O018327,Wrong Item,Original Payment,2025-12-11
+R00316,O021622,Damaged,Original Payment,2024-12-26
+R00317,O002388,Not as Described,Original Payment,2026-01-06
+R00318,O022404,Changed Mind,Original Payment,2024-10-23
+R00319,O004333,Size/Fit,Store Credit,2024-09-03
+R00320,O006668,Damaged,Original Payment,2025-10-29
+R00321,O021284,Damaged,Original Payment,2025-11-27
+R00322,O001842,Wrong Item,Original Payment,2025-08-26
+R00323,O007040,Wrong Item,Original Payment,2025-08-04
+R00324,O003396,Changed Mind,Original Payment,2024-07-31
+R00325,O007247,Wrong Item,Original Payment,2025-11-23
+R00326,O009447,Not as Described,Original Payment,2024-03-22
+R00327,O003585,Wrong Item,Original Payment,2024-12-16
+R00328,O019095,Not as Described,Original Payment,2024-08-30
+R00329,O003459,Late Delivery,Original Payment,2025-11-20
+R00330,O003901,Size/Fit,Original Payment,2024-12-31
+R00331,O000864,Not as Described,Original Payment,2025-10-13
+R00332,O013013,Not as Described,Original Payment,2025-12-19
+R00333,O004628,Late Delivery,Original Payment,2025-11-21
+R00334,O020472,Late Delivery,Original Payment,2024-02-10
+R00335,O014883,Changed Mind,Original Payment,2025-08-09
+R00336,O003991,Not as Described,Original Payment,2024-11-24
+R00337,O012285,Changed Mind,Original Payment,2024-02-04
+R00338,O003486,Size/Fit,Original Payment,2025-01-09
+R00339,O004086,Damaged,Original Payment,2024-09-27
+R00340,O000179,Late Delivery,Original Payment,2024-07-23
+R00341,O014954,Not as Described,Original Payment,2025-09-20
+R00342,O016661,Size/Fit,Original Payment,2024-12-27
+R00343,O001867,Damaged,Original Payment,2025-04-09
+R00344,O019389,Late Delivery,Original Payment,2025-10-10
+R00345,O022078,Wrong Item,Original Payment,2024-10-28
+R00346,O005972,Size/Fit,Original Payment,2025-10-09
+R00347,O003629,Not as Described,Original Payment,2025-10-02
+R00348,O018890,Changed Mind,Store Credit,2024-11-25
+R00349,O005875,Changed Mind,Store Credit,2024-09-22
+R00350,O005372,Damaged,Store Credit,2025-08-10
+R00351,O020955,Wrong Item,Original Payment,2025-06-15
+R00352,O011279,Wrong Item,Original Payment,2025-02-21
+R00353,O003416,Not as Described,Original Payment,2025-05-18
+R00354,O023716,Changed Mind,Original Payment,2024-06-10
+R00355,O009243,Size/Fit,Store Credit,2024-12-17
+R00356,O004423,Size/Fit,Original Payment,2025-04-15
+R00357,O001114,Size/Fit,Original Payment,2024-12-18
+R00358,O014106,Not as Described,Original Payment,2025-02-18
+R00359,O002831,Not as Described,Original Payment,2025-02-13
+R00360,O012116,Size/Fit,Original Payment,2024-09-07
+R00361,O001476,Damaged,Original Payment,2024-05-05
+R00362,O011425,Wrong Item,Original Payment,2025-08-02
+R00363,O015134,Damaged,Original Payment,2025-10-11
+R00364,O013019,Wrong Item,Store Credit,2024-05-04
+R00365,O000768,Wrong Item,Store Credit,2024-03-14
+R00366,O009907,Damaged,Original Payment,2024-09-26
+R00367,O015287,Wrong Item,Original Payment,2025-07-01
+R00368,O018944,Damaged,Original Payment,2024-12-24
+R00369,O022274,Size/Fit,Original Payment,2024-12-03
+R00370,O008259,Changed Mind,Original Payment,2025-12-03
+R00371,O001344,Changed Mind,Original Payment,2025-11-26
+R00372,O019913,,Original Payment,2024-11-17
+R00373,O022160,Changed Mind,Store Credit,2025-09-19
+R00374,O018057,Size/Fit,Original Payment,2025-11-04
+R00375,O006443,Size/Fit,Store Credit,2025-06-03
+R00376,O012586,Wrong Item,Original Payment,2025-03-18
+R00377,O016009,,Original Payment,2024-04-08
+R00378,O011861,Late Delivery,Store Credit,2024-02-23
+R00379,O009927,Wrong Item,Original Payment,2024-11-04
+R00380,O000569,Changed Mind,Original Payment,2024-06-21
+R00381,O022753,Changed Mind,Original Payment,2024-08-25
+R00382,O013172,Not as Described,Store Credit,2024-03-01
+R00383,O015259,Damaged,Original Payment,2024-08-18
+R00384,O009147,Wrong Item,Original Payment,2024-11-15
+R00385,O002168,Changed Mind,Original Payment,2025-09-07
+R00386,O001561,Wrong Item,Original Payment,2024-12-14
+R00387,O023607,Damaged,Original Payment,2025-06-05
+R00388,O006637,Size/Fit,Original Payment,2025-05-03
+R00389,O006893,Wrong Item,Store Credit,2025-06-15
+R00390,O009028,Changed Mind,Original Payment,2024-02-05
+R00391,O008814,Changed Mind,Original Payment,2025-09-02
+R00392,O016400,Not as Described,Store Credit,2025-04-22
+R00393,O006775,Wrong Item,Original Payment,2025-12-08
+R00394,O000388,Changed Mind,Store Credit,2024-11-09
+R00395,O004351,Damaged,Original Payment,2025-01-20
+R00396,O009212,Size/Fit,Original Payment,2025-05-12
+R00397,O011079,Late Delivery,Original Payment,2025-03-26
+R00398,O014188,Size/Fit,Original Payment,2024-10-08
+R00399,O005443,Changed Mind,Original Payment,2025-11-09
+R00400,O013265,Not as Described,Original Payment,2024-08-02
+R00401,O016431,Not as Described,Original Payment,2025-04-09
+R00402,O015077,Not as Described,Original Payment,2025-08-22
+R00403,O018044,Wrong Item,Original Payment,2024-07-30
+R00404,O013480,Wrong Item,Store Credit,2025-10-08
+R00405,O014102,,Store Credit,2024-04-15
+R00406,O004245,Late Delivery,Original Payment,2025-05-30
+R00407,O015691,Late Delivery,Original Payment,2024-10-02
+R00408,O014461,Damaged,Original Payment,2025-05-30
+R00409,O022094,Size/Fit,Original Payment,2024-12-26
+R00410,O012038,Damaged,Original Payment,2024-12-08
+R00411,O022904,Not as Described,Store Credit,2025-02-01
+R00412,O003898,Wrong Item,Store Credit,2024-10-06
+R00413,O006158,Not as Described,Original Payment,2025-03-10
+R00414,O016879,Wrong Item,Original Payment,2025-01-04
+R00415,O021048,Not as Described,Original Payment,2024-10-16
+R00416,O009335,Changed Mind,Original Payment,2024-10-14
+R00417,O010095,Damaged,Original Payment,2025-04-25
+R00418,O001909,Damaged,Original Payment,2025-12-17
+R00419,O003017,Changed Mind,Original Payment,2024-01-25
+R00420,O013176,Damaged,Original Payment,2024-08-10
+R00421,O013000,Damaged,Original Payment,2025-07-13
+R00422,O009669,Not as Described,Original Payment,2025-03-10
+R00423,O002799,Wrong Item,Original Payment,2025-01-07
+R00424,O003043,Wrong Item,Original Payment,2025-09-23
+R00425,O010185,Wrong Item,Original Payment,2024-12-28
+R00426,O010608,Late Delivery,Store Credit,2025-07-13
+R00427,O009997,Not as Described,Original Payment,2025-12-11
+R00428,O002463,Wrong Item,Original Payment,2024-11-22
+R00429,O022327,Damaged,Original Payment,2024-12-16
+R00430,O002361,Size/Fit,Store Credit,2025-05-02
+R00431,O008243,Wrong Item,Original Payment,2025-08-14
+R00432,O023670,Changed Mind,Original Payment,2024-06-26
+R00433,O022217,Damaged,Store Credit,2025-11-16
+R00434,O022329,Not as Described,Original Payment,2024-05-28
+R00435,O014056,Changed Mind,Original Payment,2024-08-31
+R00436,O019601,Not as Described,Store Credit,2025-11-05
+R00437,O015857,Damaged,Original Payment,2025-11-01
+R00438,O002496,Wrong Item,Original Payment,2025-07-27
+R00439,O000307,Not as Described,Original Payment,2025-05-28
+R00440,O009775,Changed Mind,Original Payment,2024-01-19
+R00441,O012498,Size/Fit,Original Payment,2024-06-09
+R00442,O001160,Damaged,Original Payment,2024-10-15
+R00443,O001146,Not as Described,Original Payment,2024-07-14
+R00444,O008024,Wrong Item,Original Payment,2025-09-11
+R00445,O003966,Changed Mind,Original Payment,2024-12-24
+R00446,O011208,Changed Mind,Original Payment,2025-08-15
+R00447,O022411,Damaged,Original Payment,2025-01-15
+R00448,O019716,Changed Mind,Original Payment,2024-09-15
+R00449,O021253,Damaged,Original Payment,2026-01-01
+R00450,O002719,Changed Mind,Original Payment,2025-05-26
+R00451,O010544,Late Delivery,Store Credit,2024-02-19
+R00452,O004319,Size/Fit,Original Payment,2024-12-18
+R00453,O010996,Not as Described,Original Payment,2024-04-11
+R00454,O010183,Late Delivery,Original Payment,2025-11-22
+R00455,O015108,Damaged,Original Payment,2024-12-14
+R00456,O020990,Wrong Item,Original Payment,2024-10-09
+R00457,O015531,Wrong Item,Store Credit,2025-08-06
+R00458,O004266,Not as Described,Original Payment,2025-11-27
+R00459,O009764,Not as Described,Original Payment,2025-05-08
+R00460,O018283,Changed Mind,Original Payment,2025-11-23
+R00461,O018942,Not as Described,Store Credit,2025-04-17
+R00462,O016065,Size/Fit,Original Payment,2024-06-05
+R00463,O009478,,Original Payment,2024-05-30
+R00464,O006323,Size/Fit,Original Payment,2024-08-02
+R00465,O012597,Size/Fit,Original Payment,2025-06-17
+R00466,O008145,Damaged,Original Payment,2024-03-29
+R00467,O014159,Not as Described,Original Payment,2024-11-03
+R00468,O000532,Changed Mind,Store Credit,2024-07-24
+R00469,O000057,Wrong Item,Original Payment,2024-06-10
+R00470,O014563,Wrong Item,Store Credit,2025-11-28
+R00471,O006316,Wrong Item,Original Payment,2025-04-10
+R00472,O012663,Changed Mind,Original Payment,2025-02-15
+R00473,O021423,Damaged,Original Payment,2025-06-09
+R00474,O016623,Not as Described,Original Payment,2025-05-07
+R00475,O011988,Changed Mind,Original Payment,2024-01-22
+R00476,O009728,Not as Described,Store Credit,2024-04-28
+R00477,O005433,Size/Fit,Original Payment,2025-06-18
+R00478,O004328,Wrong Item,Original Payment,2024-02-26
+R00479,O007013,Wrong Item,Original Payment,2025-05-30
+R00480,O013752,Damaged,Original Payment,2025-10-04
+R00481,O007845,Damaged,Original Payment,2024-11-21
+R00482,O022720,Changed Mind,Original Payment,2025-07-21
+R00483,O000282,Wrong Item,Original Payment,2024-01-22
+R00484,O006178,Wrong Item,Original Payment,2024-07-23
+R00485,O000711,Wrong Item,Store Credit,2024-07-29
+R00486,O008926,Late Delivery,Store Credit,2025-01-21
+R00487,O005410,Not as Described,Original Payment,2025-12-23
+R00488,O016605,Wrong Item,Original Payment,2024-02-02
+R00489,O020416,Damaged,Original Payment,2025-11-01
+R00490,O023533,Late Delivery,Original Payment,2024-08-04
+R00491,O022294,Damaged,Original Payment,2025-12-18
+R00492,O008279,Late Delivery,Original Payment,2024-07-22
+R00493,O010681,Damaged,Original Payment,2025-12-16
+R00494,O012770,,Original Payment,2024-01-11
+R00495,O019815,Late Delivery,Original Payment,2024-02-01
+R00496,O013369,Changed Mind,Original Payment,2025-12-15
+R00497,O004930,Changed Mind,Original Payment,2025-04-29
+R00498,O014530,Damaged,Original Payment,2024-12-03
+R00499,O011027,Damaged,Original Payment,2025-05-16
+R00500,O005967,Late Delivery,Original Payment,2024-04-10
+R00501,O002464,Damaged,Original Payment,2024-06-16
+R00502,O014132,Changed Mind,Original Payment,2025-10-01
+R00503,O012968,Changed Mind,Original Payment,2025-12-24
+R00504,O001827,Not as Described,Store Credit,2025-08-27
+R00505,O014380,Late Delivery,Original Payment,2025-08-19
+R00506,O019856,Late Delivery,Original Payment,2025-05-23
+R00507,O006888,Size/Fit,Original Payment,2025-11-08
+R00508,O004364,Not as Described,Original Payment,2025-07-02
+R00509,O019118,Not as Described,Original Payment,2024-04-24
+R00510,O022878,Changed Mind,Original Payment,2025-01-30
+R00511,O010725,Changed Mind,Store Credit,2025-08-14
+R00512,O016357,Late Delivery,Original Payment,2025-09-12
+R00513,O003747,Size/Fit,Original Payment,2025-12-21
+R00514,O001958,Changed Mind,Store Credit,2024-04-15
+R00515,O021266,Late Delivery,Original Payment,2025-09-16
+R00516,O011038,Not as Described,Original Payment,2024-02-17
+R00517,O004518,Size/Fit,Original Payment,2025-12-27
+R00518,O006633,,Store Credit,2024-09-02
+R00519,O005944,Not as Described,Original Payment,2025-08-06
+R00520,O012059,Damaged,Original Payment,2024-10-06
+R00521,O003065,Damaged,Original Payment,2024-04-21
+R00522,O019482,Wrong Item,Original Payment,2024-02-21
+R00523,O012580,Wrong Item,Original Payment,2024-05-30
+R00524,O012819,Changed Mind,Original Payment,2026-02-17
+R00525,O013710,Size/Fit,Store Credit,2024-02-18
+R00526,O003263,Late Delivery,Original Payment,2025-12-02
+R00527,O003059,Size/Fit,Original Payment,2024-07-23
+R00528,O011690,Damaged,Original Payment,2025-06-14
+R00529,O016351,Damaged,Original Payment,2025-11-11
+R00530,O001509,Wrong Item,Original Payment,2025-12-08
+R00531,O022482,Size/Fit,Original Payment,2025-08-07
+R00532,O022724,Late Delivery,Original Payment,2024-10-22
+R00533,O009230,Not as Described,Original Payment,2024-08-18
+R00534,O006559,Size/Fit,Store Credit,2025-10-02
+R00535,O001175,Damaged,Original Payment,2024-08-16
+R00536,O008645,Size/Fit,Original Payment,2024-11-03
+R00537,O004703,Changed Mind,Original Payment,2024-12-25
+R00538,O023990,Not as Described,Original Payment,2025-06-03
+R00539,O019841,Damaged,Original Payment,2025-01-17
+R00540,O017275,Not as Described,Original Payment,2025-10-09
+R00541,O006429,Damaged,Original Payment,2025-10-13
+R00542,O010985,Wrong Item,Original Payment,2024-08-23
+R00543,O020717,Damaged,Original Payment,2025-10-22
+R00544,O007341,Wrong Item,Original Payment,2025-04-23
+R00545,O008322,Changed Mind,Original Payment,2024-09-06
+R00546,O023118,Wrong Item,Original Payment,2025-12-22
+R00547,O003680,Size/Fit,Original Payment,2025-06-10
+R00548,O003214,Damaged,Original Payment,2024-07-13
+R00549,O018727,Damaged,Original Payment,2025-03-27
+R00550,O001322,Wrong Item,Original Payment,2025-11-02
+R00551,O008782,Wrong Item,Original Payment,2024-09-26
+R00552,O022281,Changed Mind,Store Credit,2024-07-30
+R00553,O003517,Damaged,Original Payment,2024-06-30
+R00554,O011658,Wrong Item,Store Credit,2025-12-29
+R00555,O009834,Wrong Item,Store Credit,2024-10-18
+R00556,O022335,Changed Mind,Original Payment,2024-12-17
+R00557,O007759,Changed Mind,Original Payment,2025-11-22
+R00558,O000584,Wrong Item,Original Payment,2025-01-21
+R00559,O022237,Not as Described,Store Credit,2025-09-09
+R00560,O018770,Size/Fit,Original Payment,2025-01-19
+R00561,O019266,Size/Fit,Store Credit,2024-03-07
+R00562,O009991,Size/Fit,Store Credit,2024-12-20
+R00563,O013003,Not as Described,Store Credit,2025-05-02
+R00564,O014350,Changed Mind,Original Payment,2025-10-14
+R00565,O001051,Damaged,Original Payment,2025-11-28
+R00566,O004225,Not as Described,Original Payment,2024-11-17
+R00567,O006012,Changed Mind,Original Payment,2025-08-18
+R00568,O019680,Damaged,Original Payment,2024-12-23
+R00569,O016483,Late Delivery,Original Payment,2024-04-24
+R00570,O017818,Size/Fit,Original Payment,2025-01-09
+R00571,O020334,Damaged,Original Payment,2024-02-12
+R00572,O003782,Damaged,Original Payment,2024-02-09
+R00573,O006993,Wrong Item,Original Payment,2025-12-29
+R00574,O013982,Damaged,Original Payment,2024-05-02
+R00575,O013735,Wrong Item,Original Payment,2025-05-21
+R00576,O017489,Wrong Item,Original Payment,2025-07-15
+R00577,O000558,Changed Mind,Original Payment,2024-11-29
+R00578,O003266,Not as Described,Original Payment,2025-06-26
+R00579,O007819,Damaged,Original Payment,2024-08-18
+R00580,O006285,Size/Fit,Original Payment,2024-12-15
+R00581,O015495,Changed Mind,Original Payment,2024-12-29
+R00582,O023075,Damaged,Original Payment,2024-07-13
+R00583,O004585,Changed Mind,Original Payment,2025-02-06
+R00584,O003050,Changed Mind,Original Payment,2025-11-27
+R00585,O014210,Damaged,Store Credit,2025-04-26
+R00586,O004331,Size/Fit,Original Payment,2025-07-29
+R00587,O007270,Not as Described,Original Payment,2025-12-29
+R00588,O020020,,Original Payment,2024-09-25
+R00589,O017207,Size/Fit,Original Payment,2025-06-19
+R00590,O016999,Size/Fit,Original Payment,2024-04-12
+R00591,O016107,Size/Fit,Store Credit,2025-09-07
+R00592,O015580,Not as Described,Original Payment,2025-06-21
+R00593,O012608,Changed Mind,Store Credit,2024-04-17
+R00594,O023542,Late Delivery,Store Credit,2025-11-01
+R00595,O001172,Damaged,Original Payment,2025-06-25
+R00596,O021804,Damaged,Original Payment,2025-11-07
+R00597,O003835,Changed Mind,Original Payment,2024-12-26
+R00598,O017491,Size/Fit,Original Payment,2024-07-11
+R00599,O004030,Not as Described,Original Payment,2025-09-19
+R00600,O000541,Late Delivery,Original Payment,2025-04-26
+R00601,O012575,Not as Described,Store Credit,2025-04-07
+R00602,O001247,Not as Described,Original Payment,2025-09-25
+R00603,O023285,Changed Mind,Original Payment,2024-12-02
+R00604,O019896,Damaged,Original Payment,2024-08-03
+R00605,O012601,Wrong Item,Original Payment,2025-02-14
+R00606,O016168,Not as Described,Store Credit,2025-04-18
+R00607,O011872,Wrong Item,Original Payment,2025-01-17
+R00608,O006855,Late Delivery,Original Payment,2024-06-20
+R00609,O019024,Changed Mind,Original Payment,2024-09-26
+R00610,O005527,Wrong Item,Original Payment,2025-03-01
+R00611,O000826,Damaged,Original Payment,2025-02-17
+R00612,O018637,Wrong Item,Original Payment,2025-08-01
+R00613,O010778,,Original Payment,2025-10-14
+R00614,O022741,Wrong Item,Original Payment,2025-05-04
+R00615,O009105,Size/Fit,Original Payment,2025-05-18
+R00616,O005584,Changed Mind,Original Payment,2024-08-29
+R00617,O001023,Not as Described,Original Payment,2025-02-09
+R00618,O023088,Size/Fit,Original Payment,2025-04-19
+R00619,O009316,Size/Fit,Original Payment,2025-12-12
+R00620,O011639,Damaged,Original Payment,2024-02-04
+R00621,O023195,Changed Mind,Original Payment,2025-12-11
+R00622,O020185,Not as Described,Original Payment,2024-09-10
+R00623,O017030,Changed Mind,Store Credit,2025-11-22
+R00624,O004666,Wrong Item,Store Credit,2026-01-06
+R00625,O020244,Late Delivery,Original Payment,2025-07-20
+R00626,O020505,Not as Described,Original Payment,2025-12-30
+R00627,O012478,Late Delivery,Original Payment,2024-05-26
+R00628,O023282,Not as Described,Original Payment,2025-09-10
+R00629,O019714,Not as Described,Original Payment,2025-12-20
+R00630,O013992,Changed Mind,Original Payment,2024-04-08
+R00631,O023273,Changed Mind,Original Payment,2025-05-25
+R00632,O003890,Late Delivery,Original Payment,2025-09-10
+R00633,O016495,Not as Described,Original Payment,2025-01-19
+R00634,O003713,Not as Described,Original Payment,2025-06-19
+R00635,O016004,Damaged,Original Payment,2024-12-26
+R00636,O017198,Not as Described,Original Payment,2025-01-28
+R00637,O017959,Size/Fit,Store Credit,2025-12-24
+R00638,O002939,,Original Payment,2024-04-15
+R00639,O005529,Damaged,Original Payment,2024-07-13
+R00640,O016722,Wrong Item,Original Payment,2024-05-12
+R00641,O002780,Size/Fit,Original Payment,2024-11-21
+R00642,O010460,Damaged,Original Payment,2024-05-05
+R00643,O010374,Changed Mind,Original Payment,2025-03-24
+R00644,O017680,Wrong Item,Original Payment,2024-09-22
+R00645,O014130,Not as Described,Original Payment,2024-09-18
+R00646,O020221,Size/Fit,Original Payment,2025-08-17
+R00647,O003115,Not as Described,Original Payment,2024-02-09
+R00648,O001350,Damaged,Original Payment,2024-10-07
+R00649,O003706,Size/Fit,Original Payment,2024-08-30
+R00650,O009906,Damaged,Original Payment,2024-09-29
+R00651,O022583,Damaged,Original Payment,2025-11-29
+R00652,O005100,Changed Mind,Store Credit,2024-02-29
+R00653,O019994,Size/Fit,Original Payment,2025-06-20
+R00654,O018043,Not as Described,Store Credit,2025-09-15
+R00655,O000261,Damaged,Original Payment,2024-10-05
+R00656,O019259,Not as Described,Original Payment,2025-12-30
+R00657,O001002,Changed Mind,Original Payment,2024-08-19
+R00658,O011205,Damaged,Original Payment,2025-11-04
+R00659,O015971,Late Delivery,Original Payment,2024-04-23
+R00660,O006264,Changed Mind,Original Payment,2024-12-09
+R00661,O007329,Damaged,Original Payment,2024-05-31
+R00662,O017573,Wrong Item,Original Payment,2024-02-04
+R00663,O013775,Wrong Item,Original Payment,2024-12-28
+R00664,O015210,Size/Fit,Original Payment,2025-12-11
+R00665,O016666,Size/Fit,Original Payment,2024-12-15
+R00666,O019622,Damaged,Store Credit,2024-05-09
+R00667,O006421,Not as Described,Original Payment,2025-12-08
+R00668,O014868,Damaged,Original Payment,2024-04-11
+R00669,O007161,Size/Fit,Original Payment,2025-11-21
+R00670,O010120,Changed Mind,Original Payment,2024-09-04
+R00671,O003681,Changed Mind,Store Credit,2024-07-10
+R00672,O018734,Damaged,Store Credit,2025-02-14
+R00673,O015831,,Original Payment,2024-09-12
+R00674,O021203,Size/Fit,Original Payment,2025-04-19
+R00675,O013321,Damaged,Original Payment,2024-03-25
+R00676,O018849,Damaged,Original Payment,2025-05-26
+R00677,O012076,Not as Described,Original Payment,2025-01-06
+R00678,O003643,Damaged,Original Payment,2024-09-10
+R00679,O003631,Changed Mind,Original Payment,2024-10-21
+R00680,O021725,Changed Mind,Store Credit,2025-09-01
+R00681,O022308,Size/Fit,Original Payment,2025-10-29
+R00682,O017340,Changed Mind,Store Credit,2024-05-29
+R00683,O016195,Late Delivery,Original Payment,2024-11-08
+R00684,O008639,Late Delivery,Original Payment,2025-10-25
+R00685,O011443,Changed Mind,Original Payment,2024-12-18
+R00686,O007881,Damaged,Original Payment,2025-11-09
+R00687,O004451,Size/Fit,Original Payment,2024-09-02
+R00688,O003202,Late Delivery,Original Payment,2025-07-12
+R00689,O022490,Changed Mind,Original Payment,2024-09-29
+R00690,O014780,Wrong Item,Original Payment,2025-01-08
+R00691,O003579,Not as Described,Store Credit,2025-11-17
+R00692,O022922,Changed Mind,Original Payment,2024-06-05
+R00693,O004740,Damaged,Original Payment,2025-09-13
+R00694,O014788,Late Delivery,Original Payment,2025-05-12
+R00695,O006793,,Original Payment,2024-02-01
+R00696,O007083,Damaged,Original Payment,2025-08-03
+R00697,O009857,Late Delivery,Original Payment,2024-07-20
+R00698,O003143,Late Delivery,Original Payment,2024-03-11
+R00699,O004362,Late Delivery,Original Payment,2024-07-13
+R00700,O004908,Changed Mind,Original Payment,2025-01-01
+R00701,O010793,Size/Fit,Original Payment,2025-11-20
+R00702,O006094,Changed Mind,Original Payment,2025-05-19
+R00703,O010135,Not as Described,Original Payment,2025-07-12
+R00704,O019477,Changed Mind,Original Payment,2024-03-18
+R00705,O018115,Late Delivery,Original Payment,2025-01-08
+R00706,O021146,Damaged,Store Credit,2024-07-29
+R00707,O003339,Wrong Item,Original Payment,2026-01-14
+R00708,O015670,Damaged,Original Payment,2025-06-15
+R00709,O009885,Damaged,Store Credit,2024-12-16
+R00710,O018648,Late Delivery,Original Payment,2025-12-04
+R00711,O023297,Wrong Item,Original Payment,2025-03-22
+R00712,O021873,Late Delivery,Original Payment,2025-04-09
+R00713,O005324,Late Delivery,Original Payment,2024-12-09
+R00714,O015833,Not as Described,Store Credit,2024-10-15
+R00715,O021908,Damaged,Original Payment,2025-03-17
+R00716,O017743,Not as Described,Original Payment,2025-12-02
+R00717,O020398,Not as Described,Original Payment,2025-04-28
+R00718,O022140,Size/Fit,Store Credit,2025-12-07
+R00719,O015231,Changed Mind,Original Payment,2024-10-18
+R00720,O020007,Damaged,Original Payment,2024-03-05
+R00721,O018032,Changed Mind,Original Payment,2024-10-24
+R00722,O009548,Wrong Item,Original Payment,2025-09-01
+R00723,O023294,Late Delivery,Original Payment,2025-04-02
+R00724,O012548,Wrong Item,Original Payment,2024-12-11
+R00725,O006529,Damaged,Original Payment,2024-11-30
+R00726,O019501,Damaged,Original Payment,2025-09-09
+R00727,O010923,Wrong Item,Original Payment,2024-01-15
+R00728,O012275,Wrong Item,Original Payment,2025-08-25
+R00729,O002947,Damaged,Original Payment,2024-08-15
+R00730,O016902,Damaged,Original Payment,2025-10-14
+R00731,O005742,Wrong Item,Original Payment,2025-01-07
+R00732,O020636,Changed Mind,Original Payment,2025-04-09
+R00733,O014703,Changed Mind,Original Payment,2024-09-14
+R00734,O016475,Changed Mind,Original Payment,2025-05-11
+R00735,O009298,Damaged,Original Payment,2024-11-14
+R00736,O023478,Changed Mind,Original Payment,2025-04-20
+R00737,O019971,Size/Fit,Original Payment,2025-03-16
+R00738,O005786,Late Delivery,Original Payment,2025-11-18
+R00739,O018697,Size/Fit,Original Payment,2025-05-23
+R00740,O016614,Not as Described,Original Payment,2025-01-16
+R00741,O007575,Changed Mind,Original Payment,2025-12-24
+R00742,O015943,Damaged,Original Payment,2026-01-02
+R00743,O010023,Not as Described,Original Payment,2024-09-10
+R00744,O021461,Changed Mind,Original Payment,2025-10-30
+R00745,O017366,Damaged,Original Payment,2024-07-25
+R00746,O009009,Changed Mind,Original Payment,2024-12-14
+R00747,O006351,Not as Described,Store Credit,2024-10-14
+R00748,O018369,Wrong Item,Original Payment,2025-11-07
+R00749,O015311,Size/Fit,Store Credit,2025-02-06
+R00750,O015543,Late Delivery,Original Payment,2025-03-25
+R00751,O006838,Wrong Item,Original Payment,2025-11-17
+R00752,O009336,Changed Mind,Original Payment,2025-09-21
+R00753,O009514,Late Delivery,Store Credit,2024-02-28
+R00754,O005489,Size/Fit,Original Payment,2025-03-06
+R00755,O022836,Changed Mind,Original Payment,2024-12-13
+R00756,O019402,Size/Fit,Original Payment,2025-04-24
+R00757,O011683,Wrong Item,Original Payment,2025-10-19
+R00758,O008622,Changed Mind,Original Payment,2025-01-20
+R00759,O012486,Late Delivery,Original Payment,2025-10-20
+R00760,O015830,Late Delivery,Original Payment,2024-08-18
+R00761,O023610,Wrong Item,Original Payment,2025-07-21
+R00762,O022286,Wrong Item,Original Payment,2025-11-01
+R00763,O021657,Wrong Item,Original Payment,2025-12-21
+R00764,O015016,Changed Mind,Original Payment,2025-11-19
+R00765,O020282,Wrong Item,Original Payment,2024-03-16
+R00766,O015872,Late Delivery,Original Payment,2025-06-18
+R00767,O020798,Damaged,Original Payment,2025-06-26
+R00768,O013435,Size/Fit,Original Payment,2024-08-06
+R00769,O022921,Changed Mind,Original Payment,2025-12-18
+R00770,O013970,Size/Fit,Original Payment,2024-12-31
+R00771,O002217,Damaged,Original Payment,2025-05-21
+R00772,O005990,Late Delivery,Original Payment,2025-11-26
+R00773,O017120,Changed Mind,Original Payment,2024-02-08
+R00774,O003862,Late Delivery,Store Credit,2026-01-13
+R00775,O012726,Changed Mind,Original Payment,2025-12-18
+R00776,O000993,Changed Mind,Original Payment,2024-12-05
+R00777,O013043,Size/Fit,Original Payment,2025-10-28
+R00778,O004001,Damaged,Store Credit,2024-01-18
+R00779,O016032,Wrong Item,Original Payment,2025-03-19
+R00780,O021208,Wrong Item,Store Credit,2025-12-18
+R00781,O020318,Damaged,Original Payment,2024-03-06
+R00782,O020151,Not as Described,Original Payment,2024-01-17
+R00783,O022536,Not as Described,Original Payment,2025-12-21
+R00784,O018077,Changed Mind,Original Payment,2025-09-05
+R00785,O002501,Wrong Item,Original Payment,2025-05-26
+R00786,O013601,Wrong Item,Original Payment,2024-03-04
+R00787,O005978,Wrong Item,Original Payment,2024-09-23
+R00788,O018293,Not as Described,Original Payment,2024-07-20

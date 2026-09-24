@@ -1,0 +1,241 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Price,Unit_Cost
+P0001,Laptops Item 01,Electronics,Laptops,1340.0,740.0
+P0002,Laptops Item 02,Electronics,Laptops,1480.0,900.0
+P0003,Laptops Item 03,Electronics,Laptops,18440.0,13820.0
+P0004,Laptops Item 04,Electronics,Laptops,2660.0,1690.0
+P0005,Laptops Item 05,Electronics,Laptops,11870.0,6740.0
+P0006,Laptops Item 06,Electronics,Laptops,15170.0,7930.0
+P0007,Laptops Item 07,Electronics,Laptops,17630.0,12980.0
+P0008,Laptops Item 08,Electronics,Laptops,12840.0,9240.0
+P0009,Laptops Item 09,Electronics,Laptops,5920.0,3560.0
+P0010,Laptops Item 10,Electronics,Laptops,125240.0,61300.0
+P0011,Audio Item 01,Electronics,Audio,21660.0,13860.0
+P0012,Audio Item 02,Electronics,Audio,5070.0,2940.0
+P0013,Audio Item 03,Electronics,Audio,9660.0,4960.0
+P0014,Audio Item 04,Electronics,Audio,113630.0,55050.0
+P0015,Audio Item 05,Electronics,Audio,69330.0,49060.0
+P0016,Audio Item 06,Electronics,Audio,13180.0,7470.0
+P0017,Audio Item 07,Electronics,Audio,109370.0,81290.0
+P0018,Audio Item 08,Electronics,Audio,1630.0,840.0
+P0019,Audio Item 09,Electronics,Audio,53690.0,30970.0
+P0020,Audio Item 10,Electronics,Audio,65970.0,44940.0
+P0021,Mobile Accessories Item 01,Electronics,Mobile Accessories,23430.0,15550.0
+P0022,Mobile Accessories Item 02,Electronics,Mobile Accessories,10540.0,5560.0
+P0023,Mobile Accessories Item 03,Electronics,Mobile Accessories,1790.0,1260.0
+P0024,Mobile Accessories Item 04,Electronics,Mobile Accessories,28320.0,21230.0
+P0025,Mobile Accessories Item 05,Electronics,Mobile Accessories,2150.0,1030.0
+P0026,Mobile Accessories Item 06,Electronics,Mobile Accessories,10350.0,6600.0
+P0027,Mobile Accessories Item 07,Electronics,Mobile Accessories,1550.0,1080.0
+P0028,Mobile Accessories Item 08,Electronics,Mobile Accessories,11340.0,8270.0
+P0029,Mobile Accessories Item 09,Electronics,Mobile Accessories,22780.0,11070.0
+P0030,Mobile Accessories Item 10,Electronics,Mobile Accessories,11980.0,7270.0
+P0031,Computer Accessories Item 01,Electronics,Computer Accessories,5660.0,3110.0
+P0032,Computer Accessories Item 02,Electronics,Computer Accessories,20120.0,15230.0
+P0033,Computer Accessories Item 03,Electronics,Computer Accessories,2970.0,1880.0
+P0034,Computer Accessories Item 04,Electronics,Computer Accessories,132240.0,78310.0
+P0035,Computer Accessories Item 05,Electronics,Computer Accessories,24960.0,18970.0
+P0036,Computer Accessories Item 06,Electronics,Computer Accessories,35850.0,22600.0
+P0037,Computer Accessories Item 07,Electronics,Computer Accessories,51720.0,28840.0
+P0038,Computer Accessories Item 08,Electronics,Computer Accessories,35580.0,21900.0
+P0039,Computer Accessories Item 09,Electronics,Computer Accessories,122100.0,72680.0
+P0040,Computer Accessories Item 10,Electronics,Computer Accessories,6290.0,4370.0
+P0041,Kitchen Item 01,Home & Living,Kitchen,11910.0,8880.0
+P0042,Kitchen Item 02,Home & Living,Kitchen,14360.0,10000.0
+P0043,Kitchen Item 03,Home & Living,Kitchen,1000.0,550.0
+P0044,Kitchen Item 04,Home & Living,Kitchen,6170.0,3960.0
+P0045,Kitchen Item 05,Home & Living,Kitchen,4930.0,2720.0
+P0046,Kitchen Item 06,Home & Living,Kitchen,3460.0,2520.0
+P0047,Kitchen Item 07,Home & Living,Kitchen,5910.0,4230.0
+P0048,Kitchen Item 08,Home & Living,Kitchen,910.0,650.0
+P0049,Kitchen Item 09,Home & Living,Kitchen,710.0,410.0
+P0050,Kitchen Item 10,Home & Living,Kitchen,1710.0,980.0
+P0051,Home Decor Item 01,Home & Living,Home Decor,3620.0,1890.0
+P0052,Home Decor Item 02,Home & Living,Home Decor,17380.0,9850.0
+P0053,Home Decor Item 03,Home & Living,Home Decor,6860.0,3350.0
+P0054,Home Decor Item 04,Home & Living,Home Decor,550.0,320.0
+P0055,Home Decor Item 05,Home & Living,Home Decor,3760.0,2680.0
+P0056,Home Decor Item 06,Home & Living,Home Decor,9600.0,4930.0
+P0057,Home Decor Item 07,Home & Living,Home Decor,2210.0,1380.0
+P0058,Home Decor Item 08,Home & Living,Home Decor,1590.0,1190.0
+P0059,Home Decor Item 09,Home & Living,Home Decor,8700.0,6480.0
+P0060,Home Decor Item 10,Home & Living,Home Decor,820.0,430.0
+P0061,Storage Item 01,Home & Living,Storage,2140.0,1570.0
+P0062,Storage Item 02,Home & Living,Storage,3370.0,1820.0
+P0063,Storage Item 03,Home & Living,Storage,5720.0,3930.0
+P0064,Storage Item 04,Home & Living,Storage,1420.0,950.0
+P0065,Storage Item 05,Home & Living,Storage,1460.0,990.0
+P0066,Storage Item 06,Home & Living,Storage,3840.0,2880.0
+P0067,Storage Item 07,Home & Living,Storage,590.0,390.0
+P0068,Storage Item 08,Home & Living,Storage,5750.0,2840.0
+P0069,Storage Item 09,Home & Living,Storage,2740.0,1440.0
+P0070,Storage Item 10,Home & Living,Storage,7890.0,3980.0
+P0071,Bedding Item 01,Home & Living,Bedding,11080.0,8180.0
+P0072,Bedding Item 02,Home & Living,Bedding,10350.0,7730.0
+P0073,Bedding Item 03,Home & Living,Bedding,2710.0,1640.0
+P0074,Bedding Item 04,Home & Living,Bedding,6530.0,3220.0
+P0075,Bedding Item 05,Home & Living,Bedding,960.0,490.0
+P0076,Bedding Item 06,Home & Living,Bedding,7240.0,4550.0
+P0077,Bedding Item 07,Home & Living,Bedding,860.0,550.0
+P0078,Bedding Item 08,Home & Living,Bedding,640.0,450.0
+P0079,Bedding Item 09,Home & Living,Bedding,3020.0,2060.0
+P0080,Bedding Item 10,Home & Living,Bedding,3180.0,1920.0
+P0081,Men's Clothing Item 01,Fashion,Men's Clothing,7410.0,4090.0
+P0082,Men's Clothing Item 02,Fashion,Men's Clothing,1100.0,570.0
+P0083,Men's Clothing Item 03,Fashion,Men's Clothing,14230.0,8460.0
+P0084,Men's Clothing Item 04,Fashion,Men's Clothing,1760.0,1230.0
+P0085,Men's Clothing Item 05,Fashion,Men's Clothing,970.0,550.0
+P0086,Men's Clothing Item 06,Fashion,Men's Clothing,2470.0,1270.0
+P0087,Men's Clothing Item 07,Fashion,Men's Clothing,830.0,550.0
+P0088,Men's Clothing Item 08,Fashion,Men's Clothing,810.0,480.0
+P0089,Men's Clothing Item 09,Fashion,Men's Clothing,1790.0,1310.0
+P0090,Men's Clothing Item 10,Fashion,Men's Clothing,17170.0,11580.0
+P0091,Women's Clothing Item 01,Fashion,Women's Clothing,2470.0,1530.0
+P0092,Women's Clothing Item 02,Fashion,Women's Clothing,10220.0,4930.0
+P0093,Women's Clothing Item 03,Fashion,Women's Clothing,8170.0,4790.0
+P0094,Women's Clothing Item 04,Fashion,Women's Clothing,1570.0,920.0
+P0095,Women's Clothing Item 05,Fashion,Women's Clothing,14000.0,8420.0
+P0096,Women's Clothing Item 06,Fashion,Women's Clothing,6360.0,4730.0
+P0097,Women's Clothing Item 07,Fashion,Women's Clothing,1250.0,680.0
+P0098,Women's Clothing Item 08,Fashion,Women's Clothing,2480.0,1800.0
+P0099,Women's Clothing Item 09,Fashion,Women's Clothing,15010.0,11350.0
+P0100,Women's Clothing Item 10,Fashion,Women's Clothing,1860.0,920.0
+P0101,Footwear Item 01,Fashion,Footwear,1100.0,650.0
+P0102,Footwear Item 02,Fashion,Footwear,14940.0,7530.0
+P0103,Footwear Item 03,Fashion,Footwear,10500.0,6040.0
+P0104,Footwear Item 04,Fashion,Footwear,970.0,670.0
+P0105,Footwear Item 05,Fashion,Footwear,12140.0,8640.0
+P0106,Footwear Item 06,Fashion,Footwear,2430.0,1200.0
+P0107,Footwear Item 07,Fashion,Footwear,3200.0,2040.0
+P0108,Footwear Item 08,Fashion,Footwear,6640.0,4960.0
+P0109,Footwear Item 09,Fashion,Footwear,6660.0,4850.0
+P0110,Footwear Item 10,Fashion,Footwear,740.0,470.0
+P0111,Bags Item 01,Fashion,Bags,16600.0,10290.0
+P0112,Bags Item 02,Fashion,Bags,7050.0,4150.0
+P0113,Bags Item 03,Fashion,Bags,2250.0,1520.0
+P0114,Bags Item 04,Fashion,Bags,1460.0,960.0
+P0115,Bags Item 05,Fashion,Bags,840.0,600.0
+P0116,Bags Item 06,Fashion,Bags,3770.0,2520.0
+P0117,Bags Item 07,Fashion,Bags,2870.0,1380.0
+P0118,Bags Item 08,Fashion,Bags,5520.0,2770.0
+P0119,Bags Item 09,Fashion,Bags,750.0,370.0
+P0120,Bags Item 10,Fashion,Bags,11790.0,6150.0
+P0121,Skincare Item 01,Beauty & Personal Care,Skincare,480.0,340.0
+P0122,Skincare Item 02,Beauty & Personal Care,Skincare,970.0,680.0
+P0123,Skincare Item 03,Beauty & Personal Care,Skincare,1930.0,1080.0
+P0124,Skincare Item 04,Beauty & Personal Care,Skincare,2330.0,1530.0
+P0125,Skincare Item 05,Beauty & Personal Care,Skincare,8820.0,4670.0
+P0126,Skincare Item 06,Beauty & Personal Care,Skincare,940.0,630.0
+P0127,Skincare Item 07,Beauty & Personal Care,Skincare,420.0,240.0
+P0128,Skincare Item 08,Beauty & Personal Care,Skincare,11540.0,8760.0
+P0129,Skincare Item 09,Beauty & Personal Care,Skincare,2250.0,1280.0
+P0130,Skincare Item 10,Beauty & Personal Care,Skincare,5750.0,2990.0
+P0131,Hair Care Item 01,Beauty & Personal Care,Hair Care,8350.0,5410.0
+P0132,Hair Care Item 02,Beauty & Personal Care,Hair Care,860.0,510.0
+P0133,Hair Care Item 03,Beauty & Personal Care,Hair Care,6110.0,3980.0
+P0134,Hair Care Item 04,Beauty & Personal Care,Hair Care,2930.0,1910.0
+P0135,Hair Care Item 05,Beauty & Personal Care,Hair Care,5580.0,4050.0
+P0136,Hair Care Item 06,Beauty & Personal Care,Hair Care,2010.0,1400.0
+P0137,Hair Care Item 07,Beauty & Personal Care,Hair Care,2630.0,1960.0
+P0138,Hair Care Item 08,Beauty & Personal Care,Hair Care,6230.0,4030.0
+P0139,Hair Care Item 09,Beauty & Personal Care,Hair Care,700.0,400.0
+P0140,Hair Care Item 10,Beauty & Personal Care,Hair Care,5610.0,4200.0
+P0141,Grooming Item 01,Beauty & Personal Care,Grooming,8150.0,5740.0
+P0142,Grooming Item 02,Beauty & Personal Care,Grooming,6160.0,3500.0
+P0143,Grooming Item 03,Beauty & Personal Care,Grooming,4380.0,2400.0
+P0144,Grooming Item 04,Beauty & Personal Care,Grooming,400.0,260.0
+P0145,Grooming Item 05,Beauty & Personal Care,Grooming,1990.0,1370.0
+P0146,Grooming Item 06,Beauty & Personal Care,Grooming,3350.0,1910.0
+P0147,Grooming Item 07,Beauty & Personal Care,Grooming,11410.0,7880.0
+P0148,Grooming Item 08,Beauty & Personal Care,Grooming,890.0,450.0
+P0149,Grooming Item 09,Beauty & Personal Care,Grooming,1260.0,610.0
+P0150,Grooming Item 10,Beauty & Personal Care,Grooming,560.0,390.0
+P0151,Fragrance Item 01,Beauty & Personal Care,Fragrance,6870.0,3530.0
+P0152,Fragrance Item 02,Beauty & Personal Care,Fragrance,2450.0,1550.0
+P0153,Fragrance Item 03,Beauty & Personal Care,Fragrance,6080.0,4220.0
+P0154,Fragrance Item 04,Beauty & Personal Care,Fragrance,640.0,360.0
+P0155,Fragrance Item 05,Beauty & Personal Care,Fragrance,1630.0,1140.0
+P0156,Fragrance Item 06,Beauty & Personal Care,Fragrance,9270.0,6380.0
+P0157,Fragrance Item 07,Beauty & Personal Care,Fragrance,4610.0,2460.0
+P0158,Fragrance Item 08,Beauty & Personal Care,Fragrance,3300.0,2030.0
+P0159,Fragrance Item 09,Beauty & Personal Care,Fragrance,4960.0,3700.0
+P0160,Fragrance Item 10,Beauty & Personal Care,Fragrance,2370.0,1630.0
+P0161,Fitness Item 01,Sports & Outdoors,Fitness,19490.0,14550.0
+P0162,Fitness Item 02,Sports & Outdoors,Fitness,760.0,410.0
+P0163,Fitness Item 03,Sports & Outdoors,Fitness,6660.0,3660.0
+P0164,Fitness Item 04,Sports & Outdoors,Fitness,8790.0,6610.0
+P0165,Fitness Item 05,Sports & Outdoors,Fitness,1570.0,910.0
+P0166,Fitness Item 06,Sports & Outdoors,Fitness,630.0,370.0
+P0167,Fitness Item 07,Sports & Outdoors,Fitness,9220.0,5370.0
+P0168,Fitness Item 08,Sports & Outdoors,Fitness,1620.0,1190.0
+P0169,Fitness Item 09,Sports & Outdoors,Fitness,32480.0,18760.0
+P0170,Fitness Item 10,Sports & Outdoors,Fitness,6790.0,4260.0
+P0171,Outdoor Item 01,Sports & Outdoors,Outdoor,15220.0,10270.0
+P0172,Outdoor Item 02,Sports & Outdoors,Outdoor,770.0,460.0
+P0173,Outdoor Item 03,Sports & Outdoors,Outdoor,29440.0,22240.0
+P0174,Outdoor Item 04,Sports & Outdoors,Outdoor,900.0,630.0
+P0175,Outdoor Item 05,Sports & Outdoors,Outdoor,22520.0,15700.0
+P0176,Outdoor Item 06,Sports & Outdoors,Outdoor,1130.0,670.0
+P0177,Outdoor Item 07,Sports & Outdoors,Outdoor,2220.0,1360.0
+P0178,Outdoor Item 08,Sports & Outdoors,Outdoor,860.0,630.0
+P0179,Outdoor Item 09,Sports & Outdoors,Outdoor,4890.0,3130.0
+P0180,Outdoor Item 10,Sports & Outdoors,Outdoor,8840.0,4720.0
+P0181,Sports Accessories Item 01,Sports & Outdoors,Sports Accessories,24930.0,15700.0
+P0182,Sports Accessories Item 02,Sports & Outdoors,Sports Accessories,1870.0,1390.0
+P0183,Sports Accessories Item 03,Sports & Outdoors,Sports Accessories,21710.0,11070.0
+P0184,Sports Accessories Item 04,Sports & Outdoors,Sports Accessories,2930.0,1650.0
+P0185,Sports Accessories Item 05,Sports & Outdoors,Sports Accessories,12880.0,8350.0
+P0186,Sports Accessories Item 06,Sports & Outdoors,Sports Accessories,19140.0,10540.0
+P0187,Sports Accessories Item 07,Sports & Outdoors,Sports Accessories,22240.0,12390.0
+P0188,Sports Accessories Item 08,Sports & Outdoors,Sports Accessories,32140.0,23880.0
+P0189,Sports Accessories Item 09,Sports & Outdoors,Sports Accessories,7940.0,4910.0
+P0190,Sports Accessories Item 10,Sports & Outdoors,Sports Accessories,13350.0,10040.0
+P0191,Cycling Item 01,Sports & Outdoors,Cycling,9720.0,5580.0
+P0192,Cycling Item 02,Sports & Outdoors,Cycling,5100.0,2820.0
+P0193,Cycling Item 03,Sports & Outdoors,Cycling,11050.0,7780.0
+P0194,Cycling Item 04,Sports & Outdoors,Cycling,1160.0,680.0
+P0195,Cycling Item 05,Sports & Outdoors,Cycling,2460.0,1490.0
+P0196,Cycling Item 06,Sports & Outdoors,Cycling,2140.0,1370.0
+P0197,Cycling Item 07,Sports & Outdoors,Cycling,790.0,520.0
+P0198,Cycling Item 08,Sports & Outdoors,Cycling,1030.0,750.0
+P0199,Cycling Item 09,Sports & Outdoors,Cycling,3120.0,2320.0
+P0200,Cycling Item 10,Sports & Outdoors,Cycling,11250.0,6080.0
+P0201,Writing Item 01,Office & Stationery,Writing,850.0,470.0
+P0202,Writing Item 02,Office & Stationery,Writing,9350.0,6270.0
+P0203,Writing Item 03,Office & Stationery,Writing,550.0,390.0
+P0204,Writing Item 04,Office & Stationery,Writing,13130.0,8090.0
+P0205,Writing Item 05,Office & Stationery,Writing,210.0,120.0
+P0206,Writing Item 06,Office & Stationery,Writing,260.0,190.0
+P0207,Writing Item 07,Office & Stationery,Writing,1500.0,1140.0
+P0208,Writing Item 08,Office & Stationery,Writing,680.0,380.0
+P0209,Writing Item 09,Office & Stationery,Writing,690.0,420.0
+P0210,Writing Item 10,Office & Stationery,Writing,1900.0,950.0
+P0211,Desk Accessories Item 01,Office & Stationery,Desk Accessories,650.0,420.0
+P0212,Desk Accessories Item 02,Office & Stationery,Desk Accessories,340.0,200.0
+P0213,Desk Accessories Item 03,Office & Stationery,Desk Accessories,760.0,580.0
+P0214,Desk Accessories Item 04,Office & Stationery,Desk Accessories,220.0,160.0
+P0215,Desk Accessories Item 05,Office & Stationery,Desk Accessories,11710.0,5840.0
+P0216,Desk Accessories Item 06,Office & Stationery,Desk Accessories,1410.0,790.0
+P0217,Desk Accessories Item 07,Office & Stationery,Desk Accessories,2370.0,1200.0
+P0218,Desk Accessories Item 08,Office & Stationery,Desk Accessories,1080.0,740.0
+P0219,Desk Accessories Item 09,Office & Stationery,Desk Accessories,1620.0,800.0
+P0220,Desk Accessories Item 10,Office & Stationery,Desk Accessories,470.0,340.0
+P0221,Paper Products Item 01,Office & Stationery,Paper Products,2360.0,1460.0
+P0222,Paper Products Item 02,Office & Stationery,Paper Products,10760.0,6200.0
+P0223,Paper Products Item 03,Office & Stationery,Paper Products,260.0,180.0
+P0224,Paper Products Item 04,Office & Stationery,Paper Products,310.0,200.0
+P0225,Paper Products Item 05,Office & Stationery,Paper Products,1960.0,1460.0
+P0226,Paper Products Item 06,Office & Stationery,Paper Products,660.0,480.0
+P0227,Paper Products Item 07,Office & Stationery,Paper Products,12420.0,9180.0
+P0228,Paper Products Item 08,Office & Stationery,Paper Products,770.0,410.0
+P0229,Paper Products Item 09,Office & Stationery,Paper Products,8810.0,5030.0
+P0230,Paper Products Item 10,Office & Stationery,Paper Products,560.0,340.0
+P0231,Office Equipment Item 01,Office & Stationery,Office Equipment,5790.0,3440.0
+P0232,Office Equipment Item 02,Office & Stationery,Office Equipment,6660.0,4970.0
+P0233,Office Equipment Item 03,Office & Stationery,Office Equipment,1680.0,1170.0
+P0234,Office Equipment Item 04,Office & Stationery,Office Equipment,280.0,210.0
+P0235,Office Equipment Item 05,Office & Stationery,Office Equipment,1050.0,720.0
+P0236,Office Equipment Item 06,Office & Stationery,Office Equipment,3320.0,2190.0
+P0237,Office Equipment Item 07,Office & Stationery,Office Equipment,3440.0,1730.0
+P0238,Office Equipment Item 08,Office & Stationery,Office Equipment,630.0,450.0
+P0239,Office Equipment Item 09,Office & Stationery,Office Equipment,570.0,420.0
+P0240,Office Equipment Item 10,Office & Stationery,Office Equipment,5790.0,4180.0

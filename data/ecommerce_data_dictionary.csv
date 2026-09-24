@@ -1,0 +1,32 @@
+Table,Column,Description
+customers,Customer_ID,Customer identifier
+customers,Customer_Segment,Customer type/segment
+customers,City,Customer city
+customers,Signup_Date,Date customer registered
+customers,Acquisition_Channel,Marketing/acquisition source
+products,Product_ID,Product identifier
+products,Product_Name,Synthetic product label
+products,Category,Product category
+products,Subcategory,Product subcategory
+products,Unit_Price,Standard selling price in PKR
+products,Unit_Cost,Estimated unit cost in PKR
+orders,Order_ID,Order identifier
+orders,Customer_ID,Customer placing the order
+orders,Order_Date,Date order was placed
+orders,Sales_Channel,"Website, app, or marketplace"
+orders,Payment_Method,Payment method
+orders,Order_Status,"Completed, cancelled, or returned"
+orders,Shipping_Method,Delivery service level
+orders,Promo_Code,Promotion applied to order
+order_items,Line_ID,Order-line identifier
+order_items,Order_ID,Related order
+order_items,Product_ID,Related product
+order_items,Quantity,Units ordered
+order_items,Unit_Price,Recorded unit selling price
+order_items,Unit_Cost,Recorded unit cost
+order_items,Discount_Pct,Line-level discount as decimal
+returns,Return_ID,Return identifier
+returns,Order_ID,Related returned order
+returns,Return_Reason,Reported reason for return
+returns,Refund_Method,Refund destination
+returns,Return_Date,Date return was recorded
